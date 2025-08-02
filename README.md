@@ -37,7 +37,7 @@ This project analyzes customer purchasing behavior using Excel to segment custom
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard Preview](dashboard-preview.png)
+![Dashboard Preview](dashboard-preview.PNG)
 
 ---
 
