@@ -46,13 +46,13 @@ This project analyzes customer purchasing behavior using Excel to segment custom
 | File Name               | Description                             |
 |------------------------|-----------------------------------------|
 | `customer_data.xlsx`   | Excel workbook with analysis & dashboard |
-| `dashboard-preview.png`| Dashboard screenshot                     |
+| `dashboard-preview.PNG`| Dashboard screenshot                     |
 
 ---
 
 ## 🔗 View or Download Excel File
 
-📥 [Click here to view/download the Excel file](https://drive.google.com/your-shared-link)
+📥 [Click here to view/download the Excel file](https://docs.google.com/spreadsheets/d/10AKKe8sV8IbS7mZkHmsi3MKgZ4mfqyir/edit?usp=sharing&ouid=115277383657838265435&rtpof=true&sd=true)
 
 *Note: Due to GitHub's file size limit, the Excel file is hosted externally.*
 
